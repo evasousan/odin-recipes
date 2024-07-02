@@ -1,0 +1,1 @@
+This project is part of the Odin Curriculum. It's completion will allow me to train my newly acquired HTML skills.
